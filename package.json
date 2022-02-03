@@ -19,11 +19,11 @@
   "author": "SubQuery Network",
   "license": "MIT",
   "devDependencies": {
-    "@polkadot/api": "^7",
+    "@polkadot/api": "^6",
     "@subql/types": "latest",
     "typescript": "^4.1.3",
     "@subql/cli": "latest",
-    "moonbeam-types-bundle": "^2.0.2"
+    "moonbeam-types-bundle": "^2.0.3"
   },
   "exports": {
     "chaintypes": "src/chaintypes.ts"
